@@ -1,0 +1,12 @@
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\bin\Debug\net7.0\htttpLib.deps.json
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\bin\Debug\net7.0\htttpLib.dll
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\bin\Debug\net7.0\htttpLib.pdb
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\obj\Debug\net7.0\htttpLib.csproj.AssemblyReference.cache
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\obj\Debug\net7.0\htttpLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\obj\Debug\net7.0\htttpLib.AssemblyInfoInputs.cache
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\obj\Debug\net7.0\htttpLib.AssemblyInfo.cs
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\obj\Debug\net7.0\htttpLib.csproj.CoreCompileInputs.cache
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\obj\Debug\net7.0\htttpLib.dll
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\obj\Debug\net7.0\refint\htttpLib.dll
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\obj\Debug\net7.0\htttpLib.pdb
+C:\Users\jaftb\Documents\ImagesClient\htttpLib\obj\Debug\net7.0\ref\htttpLib.dll

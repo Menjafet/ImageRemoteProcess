@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "htttpLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/htttpLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/htttpLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "htttpLib/1.0.0": {
+      "type": "project",
+      "path": "../htttpLib/htttpLib.csproj",
+      "msbuildProject": "../htttpLib/htttpLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "htttpLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jaftb\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jaftb\\Documents\\ImagesClient\\ImagesClient\\ImagesClient.csproj",
+      "projectName": "ImagesClient",
+      "projectPath": "C:\\Users\\jaftb\\Documents\\ImagesClient\\ImagesClient\\ImagesClient.csproj",
+      "packagesPath": "C:\\Users\\jaftb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jaftb\\Documents\\ImagesClient\\ImagesClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jaftb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\jaftb\\Documents\\ImagesClient\\htttpLib\\htttpLib.csproj": {
+              "projectPath": "C:\\Users\\jaftb\\Documents\\ImagesClient\\htttpLib\\htttpLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
